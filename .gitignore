@@ -1,0 +1,38 @@
+# Obsidian
+.obsidian/workspace*
+.obsidian/cache/
+.obsidian/plugins/
+.obsidian/community-plugins.json
+
+# Trash
+.trash/
+*.tmp
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Personal Content (if sharing COG structure only)
+# Uncomment these if you want to keep your personal content private
+# 00-inbox/*
+# 01-daily/*
+# 02-personal/*
+# 03-professional/*
+# 04-projects/*
+# 05-knowledge/*
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*~
+
+# Submission and marketplace tracking (keep private)
+.github/SUBMISSION-CHECKLIST.md
+.github/SUBMISSION-TEMPLATES.md
+.github/MARKETPLACE.md
